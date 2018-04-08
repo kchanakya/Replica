@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Replica</string>
+    <string name="button_1">Already a customer? Sign in</string>
+    <string name="button_2">New to Amazon.in? Create an account</string>
+    <string name="button_3">Skip sign in</string>
+    <string name="sign_in">Sign in to your account</string>
+    <string name="wishlist">View your wishlist</string>
+    <string name="text_view_3">Find &amp; reorder past purchases</string>
+    <string name="text_view_4">Track your purchases</string>
+</resources>
